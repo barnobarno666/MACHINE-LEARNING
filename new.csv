@@ -1,0 +1,191 @@
+city,bedrooms,price
+Algona,2.0,100000.0
+Algona,3.0,230000.0
+Algona,4.0,262000.0
+Auburn,1.0,115000.0
+Auburn,2.0,475000.0
+Auburn,3.0,900000.0
+Auburn,4.0,835000.0
+Auburn,5.0,507000.0
+Auburn,6.0,300000.0
+Auburn,7.0,280000.0
+Beaux Arts Village,3.0,745000.0
+Bellevue,2.0,1411600.0
+Bellevue,3.0,2110000.0
+Bellevue,4.0,4489000.0
+Bellevue,5.0,7062500.0
+Bellevue,6.0,1385000.0
+Bellevue,7.0,1240000.0
+Black Diamond,2.0,398000.0
+Black Diamond,3.0,510000.0
+Black Diamond,4.0,650000.0
+Bothell,2.0,600000.0
+Bothell,3.0,571000.0
+Bothell,4.0,749995.0
+Bothell,5.0,540000.0
+Burien,1.0,250000.0
+Burien,2.0,669000.0
+Burien,3.0,995000.0
+Burien,4.0,1035000.0
+Burien,5.0,540500.0
+Burien,6.0,543200.0
+Carnation,1.0,420850.0
+Carnation,2.0,649000.0
+Carnation,3.0,560000.0
+Carnation,4.0,1680000.0
+Clyde Hill,3.0,0.0
+Clyde Hill,4.0,2400000.0
+Clyde Hill,5.0,3800000.0
+Covington,2.0,249500.0
+Covington,3.0,450000.0
+Covington,4.0,2199900.0
+Covington,5.0,205000.0
+Des Moines,2.0,255000.0
+Des Moines,3.0,950000.0
+Des Moines,4.0,604700.0
+Des Moines,5.0,575000.0
+Duvall,2.0,460000.0
+Duvall,3.0,600000.0
+Duvall,4.0,955000.0
+Duvall,5.0,562000.0
+Enumclaw,1.0,275000.0
+Enumclaw,2.0,302000.0
+Enumclaw,3.0,667000.0
+Enumclaw,4.0,687000.0
+Enumclaw,5.0,297000.0
+Fall City,2.0,600000.0
+Fall City,3.0,720000.0
+Fall City,4.0,740000.0
+Fall City,5.0,1550000.0
+Fall City,6.0,1600000.0
+Federal Way,2.0,503000.0
+Federal Way,3.0,819000.0
+Federal Way,4.0,625000.0
+Federal Way,5.0,740000.0
+Federal Way,6.0,472000.0
+Inglewood-Finn Hill,4.0,425000.0
+Issaquah,2.0,630000.0
+Issaquah,3.0,777000.0
+Issaquah,4.0,1300000.0
+Issaquah,5.0,2238888.0
+Issaquah,6.0,1150000.0
+Issaquah,7.0,840000.0
+Kenmore,2.0,355000.0
+Kenmore,3.0,551000.0
+Kenmore,4.0,747500.0
+Kenmore,5.0,1120000.0
+Kenmore,6.0,475000.0
+Kent,1.0,129000.0
+Kent,2.0,253000.0
+Kent,3.0,26590000.0
+Kent,4.0,599950.0
+Kent,5.0,568450.0
+Kent,6.0,375000.0
+Kirkland,1.0,285000.0
+Kirkland,2.0,1010000.0
+Kirkland,3.0,1580000.0
+Kirkland,4.0,3000000.0
+Kirkland,5.0,2700000.0
+Lake Forest Park,2.0,285000.0
+Lake Forest Park,3.0,590000.0
+Lake Forest Park,4.0,790000.0
+Lake Forest Park,5.0,755000.0
+Lake Forest Park,6.0,410000.0
+Lake Forest Park,7.0,540000.0
+Maple Valley,2.0,241000.0
+Maple Valley,3.0,725000.0
+Maple Valley,4.0,609900.0
+Maple Valley,5.0,555000.0
+Medina,4.0,3710000.0
+Medina,5.0,2680000.0
+Mercer Island,2.0,1087500.0
+Mercer Island,3.0,2367000.0
+Mercer Island,4.0,2351956.0
+Mercer Island,5.0,4668000.0
+Mercer Island,6.0,3100000.0
+Mercer Island,7.0,1950000.0
+Milton,3.0,320000.0
+Newcastle,3.0,750000.0
+Newcastle,4.0,1200000.0
+Newcastle,5.0,1068000.0
+Normandy Park,2.0,250275.0
+Normandy Park,3.0,1131000.0
+Normandy Park,4.0,1309500.0
+Normandy Park,5.0,519000.0
+North Bend,2.0,295000.0
+North Bend,3.0,459990.0
+North Bend,4.0,845000.0
+Pacific,2.0,174000.0
+Pacific,3.0,260000.0
+Pacific,4.0,220000.0
+Pacific,5.0,260000.0
+Preston,2.0,439900.0
+Preston,3.0,685000.0
+Ravensdale,2.0,225000.0
+Ravensdale,3.0,630000.0
+Ravensdale,4.0,792500.0
+Redmond,0.0,1295648.0
+Redmond,2.0,930000.0
+Redmond,3.0,1700000.0
+Redmond,4.0,1360000.0
+Redmond,5.0,1240000.0
+Redmond,6.0,583000.0
+Redmond,7.0,2280000.0
+Renton,1.0,355000.0
+Renton,2.0,630000.0
+Renton,3.0,868500.0
+Renton,4.0,1025000.0
+Renton,5.0,1135250.0
+Renton,6.0,570000.0
+Renton,7.0,350000.0
+Sammamish,2.0,505000.0
+Sammamish,3.0,2400000.0
+Sammamish,4.0,1325000.0
+Sammamish,5.0,2000000.0
+Sammamish,6.0,968000.0
+SeaTac,2.0,250000.0
+SeaTac,3.0,489000.0
+SeaTac,4.0,330000.0
+SeaTac,5.0,349950.0
+Seattle,0.0,1095000.0
+Seattle,1.0,540000.0
+Seattle,2.0,1695000.0
+Seattle,3.0,12899000.0
+Seattle,4.0,2555000.0
+Seattle,5.0,2888000.0
+Seattle,6.0,2400000.0
+Seattle,7.0,3200000.0
+Seattle,8.0,1970000.0
+Seattle,9.0,599999.0
+Shoreline,2.0,1000000.0
+Shoreline,3.0,1735000.0
+Shoreline,4.0,970000.0
+Shoreline,5.0,941500.0
+Shoreline,6.0,2005000.0
+Shoreline,8.0,340000.0
+Skykomish,2.0,134000.0
+Skykomish,3.0,415000.0
+Snoqualmie,1.0,527550.0
+Snoqualmie,2.0,386000.0
+Snoqualmie,3.0,725000.0
+Snoqualmie,4.0,1149000.0
+Snoqualmie,5.0,1075000.0
+Snoqualmie,6.0,620000.0
+Snoqualmie Pass,3.0,525000.0
+Tukwila,2.0,305000.0
+Tukwila,3.0,360000.0
+Tukwila,4.0,2110000.0
+Tukwila,5.0,292050.0
+Vashon,2.0,849900.0
+Vashon,3.0,789000.0
+Vashon,4.0,585000.0
+Vashon,5.0,437000.0
+Woodinville,1.0,458000.0
+Woodinville,2.0,589900.0
+Woodinville,3.0,880000.0
+Woodinville,4.0,1820000.0
+Woodinville,5.0,950000.0
+Woodinville,6.0,1135000.0
+Yarrow Point,3.0,1901000.0
+Yarrow Point,4.0,84350.0
+Yarrow Point,5.0,1895000.0
